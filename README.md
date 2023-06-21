@@ -16,14 +16,12 @@
 
 ## 파일 내용
 
-1. lecture_note.pdf 파이썬 기반 데이터 사이언스 입문 강의노트
+1. python_lecture_note.pdf 파이썬 기반 데이터 사이언스 입문 강의노트
 
 2. 주피터노트북 파일
     - intro.ipynb (파이썬 자료형, 문법, 라이브러리 등)
     - pandas.ipynb (파이썬 데이터 분석 라이브러리, 판다스)
-    - wiot.ipynb (국제투입산출표 분석)
     - Preprocess.ipynb (BIS, ECOS, 한국부동산원 등에서 입수한 데이터의 전처리 및 시각화)
-    - test.ipynb (파이썬 기초 과제)
     
 3. input 폴더
     - 이미지, excel, csv 파일 등
@@ -35,8 +33,6 @@
 
 5. BDS 폴더
     - 자생적 연구모임(데이터 역량개발) 스터디 자료
-
-6. Python_for_BigData.pdf 빅데이터 분석을 위한 파이썬 연수 자료
 
 
 ## 출처
