@@ -2,6 +2,7 @@
 
 - 한국은행 파이썬 기반 데이터 사이언스 입문 (2023.6.22-23)
 - 한국은행 빅데이터 분석을 위한 PYTHON (2023.7.5-7)
+- 한국은행 빅데이터 분석을 위한 PYTHON (2024.6.12-14)
 
 
 ## 사전 준비
@@ -11,18 +12,13 @@
     - 파일 상단에 있는 Open in Colab 버튼을 클릭하여 노트북 파일을 구글 Colab에서 열기
     - 구글 Colab에 로그인(구글 아이디 필요)
     - 셀을 하나 선택하여 실행(Shift + Enter)되는 지 확인
-2. ECOS open API 사용 준비
-    - open API 페이지( https://ecos.bok.or.kr/api/#/ )에서 인증키 신청
 
 
 ## 파일 내용
 
-1. python_lecture_note.pdf 파이썬 기반 데이터 사이언스 입문 강의노트
+1. lecture_note.pdf 강의노트
 
 2. 주피터노트북 파일
-    - intro.ipynb (파이썬 자료형, 문법, 라이브러리 등)
-    - pandas.ipynb (파이썬 데이터 분석 라이브러리, 판다스)
-    - Preprocess.ipynb (BIS, ECOS, 한국부동산원 등에서 입수한 데이터의 전처리 및 시각화)
     
 3. input 폴더
     - 이미지, excel, csv 파일 등
